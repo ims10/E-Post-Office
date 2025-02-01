@@ -3,25 +3,23 @@
 
 ## 📌 Project Overview
 
-The **E-Post Office Management System** is a **C# .NET**-based application designed to digitalize post office services. It streamlines operations like parcel tracking, postage calculation, customer management, and employee records. The project follows a structured **Windows Forms** architecture with **User Controls** and utilizes **SQL Server** as the backend database.
+The **E-Post Office Management System** is a **C# .NET**-based application designed to digitalize post office services. It streamlines operations like parcel Service, AddCustomer information, customer management, Money Order and records. The project follows a structured **Windows Forms** architecture with **User Controls** and utilizes **SQL Server** as the backend database.
 
 ## 🚀 Features
 
 - **User Authentication & Roles:** Admin and employee login system
 
-- Parcel Management: Send, receive, and track parcels
+- **Parcel Management:** Send, receive, and track parcels
 
-- Customer Management: Store and manage customer details
+- **Customer Management:** Store and manage customer details
 
-- Billing System: Calculate postage and generate invoices
+- **Money Records Management:** Manage post office Payment details
 
-- Employee Management: Manage post office staff details
+- **Reports & Analytics:** Generate reports for better decision-making
 
-- Reports & Analytics: Generate reports for better decision-making
+- **User-Friendly Interface:** Interactive Windows Forms with custom User Controls
 
-- User-Friendly Interface: Interactive Windows Forms with custom User Controls
-
-- Database Management: Secure storage using SQL Server
+- **Database Management:** Secure storage using SQL Server
 
 ## 🛠️ Technologies Used
 
@@ -47,16 +45,16 @@ The **E-Post Office Management System** is a **C# .NET**-based application desig
 
 - Open SQL Server Management Studio (SSMS)
 
-- Create a new database: EPostOfficeDB
+- Create a new database: E-PostDB
 
 - Execute the provided SQL script (DatabaseScript.sql) to create tables
 
 - Update the connection string in app.config:
-
+```sh
 <connectionStrings>
     <add name="EPostDB" connectionString="Data Source=YOUR_SERVER;Initial Catalog=EPostOfficeDB;Integrated Security=True" providerName="System.Data.SqlClient" />
 </connectionStrings>
-
+```
  **3️⃣ Running the Application**
 
 - Open the project in Visual Studio
@@ -90,8 +88,11 @@ The **E-Post Office Management System** is a **C# .NET**-based application desig
 
 ## 📜 License
 
+- **The MIT License (MIT)**
 This project is for educational purposes. Feel free to modify and enhance it.
 
 ## 👨‍💻 Author
 
-Developed by [Indrajeet Shinde] as a final year project.
+Developed by [**Indrajeet Shinde**] as a final year project.
+
+😉Follow me in 👉[Linkedin](https://www.linkedin.com/in/indrajeet-webdeveloper?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)...🏆
