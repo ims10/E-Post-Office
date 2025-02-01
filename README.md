@@ -67,7 +67,26 @@ The **E-Post Office Management System** is a **C# .NET**-based application desig
 
 ## 📸 Screenshots
 
-(Add screenshots of your application here)
+**Login-Page**
+- ![Log-in-page](https://github.com/user-attachments/assets/31917dfc-efbd-4f71-af17-0bbd89e59d4c)
+  
+**Home-Page**
+- ![Home-page](https://github.com/user-attachments/assets/1d386fb1-2608-4487-ac37-d546884b22cb)
+
+**Add-Customer-Page**
+- ![Customer-Page1](https://github.com/user-attachments/assets/917a2cb9-d149-4b80-b339-8aeba89cc996)
+
+**Register-Post-Page**
+- ![Register-posi2](https://github.com/user-attachments/assets/8eb0a5e7-ca13-44de-b7ea-bb083c957081)
+
+**Parcel-Post-Page**
+- ![Parcel-page3](https://github.com/user-attachments/assets/493a7c80-7024-4e65-9197-3f6e50f2296a)
+
+**Money-Order-Page**
+- ![MonetOrder-page4](https://github.com/user-attachments/assets/ec451b7e-960b-4a73-be86-9fe55d6b341f)
+
+**RDI-Money-Page**
+- ![RDI-page5](https://github.com/user-attachments/assets/0f204d1f-414d-404d-bc39-bf217103c822)
 
 ## 📜 License
 
