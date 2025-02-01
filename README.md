@@ -7,7 +7,7 @@ The **E-Post Office Management System** is a **C# .NET**-based application desig
 
 ## 🚀 Features
 
-- **User Authentication & Roles:** Admin and employee login system
+- **User Authentication & Roles:** Admin login system
 
 - **Parcel Management:** Send, receive, and track parcels
 
@@ -64,6 +64,8 @@ The **E-Post Office Management System** is a **C# .NET**-based application desig
 - Run the project (F5)
 
 ## 📸 Screenshots
+
+Plz Wait For Loading All images
 
 **Login-Page**
 - ![Log-in-page](https://github.com/user-attachments/assets/31917dfc-efbd-4f71-af17-0bbd89e59d4c)
